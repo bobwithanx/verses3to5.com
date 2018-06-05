@@ -1,8 +1,8 @@
 +++
 title = "From a 60-something retiree"
 date = "2015-09-23T13:50:46+02:00"
-tags = ["Career", "Fear", "Relationships", "Spiritual Growth"]
-categories = [""]
+categories = ["Career", "Fear", "Relationships", "Spiritual Growth"]
+
 banner = "img/letters/AdobeStock_105288946.jpg"
 +++
 

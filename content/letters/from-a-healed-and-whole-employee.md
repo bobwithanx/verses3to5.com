@@ -1,8 +1,7 @@
 +++
 title = "From a healed and whole employee"
 date = "2015-10-07T13:50:46+02:00"
-tags = ["Abuse", "Career", "Grief", "Healing"]
-categories = [""]
+categories = ["Abuse", "Career", "Grief", "Healing"]
 banner = "img/letters/AdobeStock_99318318.jpg"
 +++
 

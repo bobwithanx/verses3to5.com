@@ -1,8 +1,7 @@
 +++
 title = "From a beloved daughter of God who wears many hats"
 date = "2015-09-27T13:50:46+02:00"
-tags = ["Dreams", "Identity", "Perseverance", "Purpose"]
-categories = [""]
+categories = ["Dreams", "Identity", "Perseverance", "Purpose"]
 type = "letters"
 banner = "img/letters/AdobeStock_86479136.jpg"
 +++

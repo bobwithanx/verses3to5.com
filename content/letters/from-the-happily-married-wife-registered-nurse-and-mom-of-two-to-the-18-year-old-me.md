@@ -1,8 +1,8 @@
 +++
 title = "From a happily married wife, registered nurse, and mom of 2"
 date = "2015-09-22T13:50:46+02:00"
-tags = ["Career", "Dating", "Guys", "School", "Self-Worth", "Singlehood", "Spiritual Growth"]
-categories = [""]
+categories = ["Career", "Dating", "Guys", "School", "Self-Worth", "Singlehood", "Spiritual Growth"]
+
 banner = "img/letters/AdobeStock_93764312.jpg"
 +++
 

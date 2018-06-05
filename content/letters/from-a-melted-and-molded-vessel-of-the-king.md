@@ -1,8 +1,7 @@
 +++
 title = "From a melted and molded vessel of the King"
 date = "2015-09-28T13:50:46+02:00"
-tags = ["Abuse", "Childhood", "Empathy", "Healing"]
-categories = [""]
+categories = ["Abuse", "Childhood", "Empathy", "Healing"]
 banner = "img/letters/AdobeStock_55902132.jpg"
 +++
 

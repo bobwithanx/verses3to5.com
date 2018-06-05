@@ -1,8 +1,8 @@
 +++
 title = "From a wife of 8 years"
 date = "2015-09-18T13:50:46+02:00"
-tags = ["Breakup", "Dating", "Grief", "Self-Worth", "Singlehood", "Suffering"]
-categories = [""]
+categories = ["Breakup", "Dating", "Grief", "Self-Worth", "Singlehood", "Suffering"]
+
 banner = "img/letters/AdobeStock_54297003.jpg"
 +++
 

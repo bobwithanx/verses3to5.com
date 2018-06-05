@@ -1,8 +1,7 @@
 +++
 title = "From a mother with empty arms"
 date = "2015-09-29T13:50:46+02:00"
-tags = ["Child", "Grief", "Loss", "Miscarriage", "Motherhood"]
-categories = [""]
+categories = ["Child", "Grief", "Loss", "Miscarriage", "Motherhood"]
 banner = "img/letters/AdobeStock_103617996.jpg"
 +++
 <div class="mk-single-content clearfix" itemprop="mainEntityOfPage">

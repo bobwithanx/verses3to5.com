@@ -1,8 +1,8 @@
 +++
 title = "From the one who wants you to know the truth"
 date = "2015-10-02T13:50:46+02:00"
-tags = ["Career", "Dating", "Guys", "School", "Sex", "Singlehood", "Spiritual Growth", "Teenage"]
-categories = [""]
+categories = ["Career", "Dating", "Guys", "School", "Sex", "Singlehood", "Spiritual Growth", "Teenage"]
+
 banner = "img/letters/AdobeStock_93897655.jpg"
 +++
 
