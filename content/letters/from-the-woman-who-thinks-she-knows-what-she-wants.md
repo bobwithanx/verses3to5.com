@@ -1,0 +1,23 @@
++++
+title = "From the woman who thinks she knows what she wants"
+date = "2016-05-24T13:50:46+02:00"
+tags = []
+categories = [""]
+banner = "img/letters/AdobeStock_93897655.jpg"
++++
+
+<div class="mk-single-content clearfix" itemprop="mainEntityOfPage">
+	<p><span style="font-weight: 400">Dear 23-year-old Me,</span></p>
+<p><span style="font-weight: 400">A little while from now, things are going to change. Like, </span><i><span style="font-weight: 400">really </span></i><span style="font-weight: 400">change. Not all at once, mind you. But that eight-year plan that you have so carefully laid out? Please, don’t become too attached to it.</span><span id="more-212"></span></p>
+<p><span style="font-weight: 400"> Bit by bit, line by line, the checklists and timelines are going to be revised, crossed out, and reordered. In the end, very little will resemble your original idea of “how life is going to be.” And yet, I assure you, it is beautiful. So just a few details, and – spoiler alert – it is all so very, very good.</span></p>
+<p><span style="font-weight: 400">You’re going to move back to your hometown, the place you are sure you’ll never return to, for the craziest of all reasons: </span><i><span style="font-weight: 400">to be near your family</span></i><span style="font-weight: 400">. You’re going to have twice as many kids as you think you want, and a tenth of the money you’re convinced you need. You’ll live in a borrowed house, and stay home with your kids, and drive – wait for it – </span><i><span style="font-weight: 400">a minivan</span></i><span style="font-weight: 400">.</span></p>
+<p><span style="font-weight: 400">You know that plan to spend your tenth anniversary in Paris with a shiny new diamond to add to your wedding set? That anniversary is going to be significantly more modest and infinitely sweeter. For all your newlywed bliss, your marriage will become so much more. It is the foundation of your family, set on the bedrock of faith and cemented through weeping and rejoicing together. You will be deeply grateful to be married to someone who continually chooses you before all others, knowing that marriages like yours are rare, and that vows “from this day forward” are not guarantees of happily ever after. Your kids will know that you are each other’s best friend, and they won’t even giggle when they see you kiss in the kitchen. This will be everyday life together, with little people under foot and precious little time alone, and you will absolutely know that this is as good as it gets.</span></p>
+<p><span style="font-weight: 400">The friends you have now are still your friends. You will walk together through the most difficult days imaginable. &nbsp;You will point each other to truth and pray for each other when you can’t pray for yourselves.<strong> These are the kind of friendships that you have always longed for: honest, loyal, secure, and deep. Know that they are being built right now, in these pre-children days when spontaneity affords time together that you won’t have in years to come.</strong> Over Tuesday morning coffee and many glasses of wine, these small deposits are building a wealth of relationship that you can draw upon when separated by miles and time zones. I know sometimes your introverted self would rather stay home, but I’m telling you: </span><i><span style="font-weight: 400">go out</span></i><span style="font-weight: 400">. Make the effort. Show up. You need these women, and you will never regret time spent together.</span></p>
+<p><span style="font-weight: 400">But here’s the most important thing. &nbsp;All these changes that seems so counter to your current identity? That trembling sense of dread that this small existence is going to be your actual real life? That’s okay. Feel those things now. And trust that, when the time comes, God won’t just have changed your circumstances. He’ll have changed your heart, your motivations, your desires, and your dreams. <strong>That the place and position to where he will call you is exactly where you want to be, and you will be deeply content.</strong></span></p>
+<p><span style="font-weight: 400">So hold your plans loosely. Cherish your husband. Treasure your friends. Get ready to adore a houseful of babies.</span></p>
+<p><span style="font-weight: 400">And don’t freak out about the minivan.</span></p>
+<p>Love,</p>
+<h6 class="signature">Future You</h6>
+<p>&nbsp;</p>
+<p><i><span style="font-weight: 400">Erin is a not-so-silent partner at <a href="http://www.frenchgroceryinc.com" target="_blank">French Grocery</a> and mostly-stay-at-home mom of four in Phoenix, AZ.</span></i></p>
+</div>

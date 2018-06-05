@@ -1,0 +1,255 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 190px;
+  max-height: 190px;
+}
+
+.box-image-text .top .text {
+  top: -10px;
+}
+
+section {
+  margin-bottom: 0;
+}
+
+a:hover {
+  color: #ee2a7b;
+}
+
+a {
+  color: #9e1f63;
+}
+
+a:active,
+a:focus,
+a:hover,
+a:link,
+a:visited {
+  outline: 0 none;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+img.rounded {
+  border-radius: 4px;
+}
+
+.profile img {
+  max-width: 100%;
+  height: auto;
+}
+
+.fancy-title {
+  font-weight: 700;
+  font-size: 14px;
+  padding-top: 5px;
+  color: #404040;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: left;
+  margin: 0 0 .8em;
+}
+
+.fancy-title.pattern-style {
+  background: url(/img/fancy-title-pattern.png) left center repeat-x;
+}
+
+.fancy-title span {
+  background-color: #fff;
+  padding-right: 10px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+strong {
+  color: #ee2a7b;
+}
+
+.btn-default {
+  background-color: #9e1f63;
+  color: #fff;
+}
+
+.navbar-default {
+  background-image: url(/img/header-bg.jpg);
+  background-position: center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.navbar-brand {
+  display: none;
+}
+
+.navbar ul.nav>li>a {
+  color: #111;
+  text-decoration: none;
+  border-top: none;
+  font-size: 13px;
+  font-weight: 600;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>a:hover,
+.navbar-default .navbar-nav>a:focus,
+.navbar ul.nav>li.active>a,
+.navbar ul.nav>li.open>a,
+.navbar ul.nav>li>a:hover,
+.navbar ul.nav>li>a:active,
+.navbar ul.nav>li.active>a:active {
+  background-color: #ee2a7b;
+  color: #ffffff;
+  border-top: none;
+}
+
+h4.block-header {
+  text-align: center;
+  font-size: 18px;
+  color: #0281ad;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+all {
+  background-color: #9e1f63;
+}
+
+body,
+#all {
+  font-family: Poppins;
+  line-height: 1.66em;
+  color: #222;
+}
+
+body {
+  font-weight: 200;
+  line-height: 1.66em;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.66em;
+}
+
+.bar {
+  padding: 0;
+}
+
+.recent-posts {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.box-image-text .top .bg {
+  background-color: #0281ad;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+image .image-hover-overlay {
+  opacity: .5;
+  background-color: #000 !important;
+  transition: all .25s ease-out;
+}
+
+#heading-breadcrumbs {
+  background-color: #9e1f63;
+  color: white;
+  background-image: none;
+}
+
+.bar.background-image-fixed-2 {
+  background: url('/img/paper-bg.jpg') center center repeat;
+  border-top: 35px solid #9e1f63;
+  padding: 35px;
+}
+
+h1.page-title {
+  font-family: Poppins;
+  font-size: 20px !important;
+  color: #fef9f3 !important;
+  font-weight: 400 !important;
+}
+
+.page-title {
+  margin: 25px 20px 15px;
+  line-height: 120%;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+h1.script-title {
+  font-size: 60px;
+  font-weight: 600;
+}
+
+h2.script-title {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.script-title {
+  font-family: Dawning of a New Day;
+  font-size: 40px;
+  color: #9e1f63;
+  font-weight: 600;
+  text-transform: none;
+}
+
+.signature {
+  font-family: Dawning of a New Day;
+  font-size: 29px;
+  color: #ee2a7b;
+  font-weight: 600;
+  text-transform: none;
+  text-decoration: none;
+}
+
+#copyright {
+  background-color: #0281ad;
+  border-top: 20px solid #9e1f63;
+  padding: 25px 0 25px;
+}
+
+#copyright p {
+  color: #fef9f3;
+  font-weight: 400;
+  font-size: 11px;
+  letter-spacing: 1px;
+  opacity: .8;
+}
+
+.quote {
+  margin-left: 10%;
+  width: 80%;
+  min-height: 100px;
+  padding: 30px 20px;
+  border-radius: 15px;
+  background-color: rgba(238, 42, 123, 0.25);
+}

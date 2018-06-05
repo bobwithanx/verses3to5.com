@@ -1,0 +1,17 @@
++++
+title = "From a happily married wife, registered nurse, and mom of 2"
+date = "2015-09-22T13:50:46+02:00"
+tags = ["Career", "Dating", "Guys", "School", "Self-Worth", "Singlehood", "Spiritual Growth"]
+categories = [""]
+banner = "img/letters/AdobeStock_93764312.jpg"
++++
+
+<div class="mk-single-content clearfix" itemprop="mainEntityOfPage">
+	<p>Dear 18-year-old wild child,</p>
+<p>I know you don’t want to listen to any advice and think you’ve got everything figured out, but let me have just a moment of your attention.&nbsp;Life will be much better if you focus less on guys, and more on goals and accomplishments.<span id="more-40"></span> You are worth FAR more than you allow credit for, and are capable of AMAZING things! Focus on school rather than guys, and you will accomplish things much more quickly and with far less heartache.</p>
+<p>Put God first, tomorrow is always tomorrow, and it’s easier to start routines when you’re younger. Otherwise you’ll be in your 30s still saying, “I’ll just do it tomorrow”. Make Him your priority, nothing else. Give Him more of your time. He deserves it. He blesses you FAR more than you deserve! Put more time and energy into school, and not just work and your social life. You will regret taking so long to finish your schooling. Oh, and while we’re on that topic, you are capable of completing what your beginning goals were. No matter how many obstacles, and people who tell you that you will never succeed, YOU WILL! Keep your eye on the end result. You are strong and determined. Don’t forget that! <strong>Think of Philippians 4:13 often:&nbsp;<em>I can do all things through Christ who gives me strength</em>. You will need that reminder a lot through nursing school!</strong></p>
+<p>Back to the guy topic, ugh! Don’t waste your time with guys that really don’t take the time that you are worth. Take the time to be happy with where life has taken you. Don’t focus on being single or in a relationship, there is far more to life than this. Once you learn to love yourself and be happy with you, life is much easier and you can truly find happiness. When you least expect it the right person will come along. But make him work for it; you are worth it! Besides, they love the chase. <strong>Give yourself the value that you want men to see in you.</strong> Remind yourself of Psalm 139:14:&nbsp;<em>I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well</em>. God has created you just the way He wanted you! Have confidence. Love yourself. And hey, you never know, you could end up with the first person you fell in love with and live “happily ever after”. Life is funny. Things don’t go as planned, no matter how hard you try to be in control. Enjoy the ride!</p>
+<p>Today you are happily married to your first love (although marriage does take work), you are a registered nurse (RN) who cares for cardiac patients, you absolutely LOVE what you do and the people you work with, you are a mom of two who are beautiful and perfect (and yes, they have blue eyes!), and you live in Arizona!!!! Yes, you moved away from beautiful sunny Carlsbad, your favorite place, even though you swore you never would. 😉 You have also never been happier than you are today!</p>
+<p>Love,</p>
+<h6 class="signature">Ruth</h6>
+</div>
