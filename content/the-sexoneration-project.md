@@ -1,6 +1,5 @@
 +++
 title = "The Sexoneration Project"
-type = "static"
 identifier = "the-sexoneration-project"
 [menu]
 [menu.main]
