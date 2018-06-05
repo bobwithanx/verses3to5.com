@@ -1,6 +1,5 @@
 +++
 title = "Submission Guidelines"
-type = "static"
 identifier = "submission-guidelines"
 [menu]
 [menu.main]
