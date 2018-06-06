@@ -75,17 +75,55 @@ strong {
   color: #fff;
 }
 
-.navbar-default {
+.nav-header {
+  background: none;
+  overflow:visible;
+  width:100%;
+
   background-image: url(/img/header-bg.jpg);
   background-position: center center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
+
+}
+.navbar-affixed-top {
+  background-position: center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+
+.affix {
+  background-image: url(/img/header-bg.jpg);
+  background-position: center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+
+.nav-container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar-default {
+  /* background-image: url(/img/header-bg.jpg);
+  background-position: center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover; */
+  background-color: inherit;
   padding-top: 5px;
   padding-bottom: 5px;
 }
 
-.navbar-brand {
+a.navbar-brand {
+  /* color: #ffffff;
+  font-family: Dawning of a New Day;
+  font-size: 40px !important;
+  color: #fef9f3 !important;
+  font-weight: 400 !important; */
   display: none;
 }
 
