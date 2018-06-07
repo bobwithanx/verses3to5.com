@@ -1,7 +1,7 @@
 +++
 title = "From a mom of 3 under 4 years old"
 date = "2015-09-20T13:50:46+02:00"
-categories = ["Community", "Friendships", "Motherhood", "School", "Singlehood", "Spiritual Growth"]
+category = ["Community", "Friendships", "Motherhood", "School", "Singlehood", "Spiritual Growth"]
 aliases = ["/from-a-mom-of-3-under-4-to-the-incoming-grad-school-student/"]
 banner = "img/letters/AdobeStock_103617996.jpg"
 +++

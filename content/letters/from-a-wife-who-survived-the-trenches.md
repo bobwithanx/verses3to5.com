@@ -1,7 +1,7 @@
 +++
 title = "From a wife who survived the trenches"
 date = "2016-04-23T13:50:46+02:00"
-categories = []
+category = []
 aliases = ["/from-a-wife-who-survived-the-trenches/"]
 banner = "img/letters/AdobeStock_3569941.jpg"
 +++

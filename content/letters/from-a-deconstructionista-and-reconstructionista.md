@@ -1,7 +1,7 @@
 +++
 title = "From a deconstructionista… and reconstructionista"
 date = "2017-11-02T13:50:46+02:00"
-categories = ["Deconstruction", "Faith"]
+category = ["Deconstruction", "Faith"]
 aliases = ["/from-a-deconstructionista-and-reconstructionista/"]
 banner = "img/letters/AdobeStock_111561180.jpg"
 +++

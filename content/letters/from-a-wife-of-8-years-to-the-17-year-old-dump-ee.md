@@ -1,7 +1,7 @@
 +++
 title = "From a wife of 8 years"
 date = "2015-09-18T13:50:46+02:00"
-categories = ["Breakup", "Dating", "Grief", "Self-Worth", "Singlehood", "Suffering"]
+category = ["Breakup", "Dating", "Grief", "Self-Worth", "Singlehood", "Suffering"]
 aliases = ["/from-a-wife-of-8-years-to-the-17-year-old-dump-ee/"]
 banner = "img/letters/AdobeStock_54297003.jpg"
 +++

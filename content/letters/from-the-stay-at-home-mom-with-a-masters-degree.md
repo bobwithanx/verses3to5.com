@@ -1,7 +1,7 @@
 +++
 title = "From the stay-at-home mom with a master's degree"
 date = "2015-10-21T13:50:46+02:00"
-categories = ["Career", "Faith", "Fear", "Motherhood"]
+category = ["Career", "Faith", "Fear", "Motherhood"]
 aliases = ["/from-the-stay-at-home-mom-with-a-masters-degree/"]
 banner = "img/letters/AdobeStock_96428264.jpg"
 +++
