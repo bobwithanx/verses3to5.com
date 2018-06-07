@@ -2,7 +2,7 @@
 title = "From a 60-something retiree"
 date = "2015-09-23T13:50:46+02:00"
 categories = ["Career", "Fear", "Relationships", "Spiritual Growth"]
-
+aliases = ["/from-the-60-something-retiree-to-the-20-year-old-confrontation-avoider/"]
 banner = "img/letters/AdobeStock_105288946.jpg"
 +++
 

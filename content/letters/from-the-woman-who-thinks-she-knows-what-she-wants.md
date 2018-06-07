@@ -2,6 +2,7 @@
 title = "From the woman who thinks she knows what she wants"
 date = "2016-05-24T13:50:46+02:00"
 categories = []
+aliases = ["/from-the-woman-who-thinks-she-knows-what-she-wants/"]
 banner = "img/letters/AdobeStock_93897655.jpg"
 +++
 

@@ -2,7 +2,7 @@
 title = "From a happily married wife, registered nurse, and mom of 2"
 date = "2015-09-22T13:50:46+02:00"
 categories = ["Career", "Dating", "Guys", "School", "Self-Worth", "Singlehood", "Spiritual Growth"]
-
+aliases = ["/from-the-happily-married-wife-registered-nurse-and-mom-of-two-to-the-18-year-old-me/"]
 banner = "img/letters/AdobeStock_93764312.jpg"
 +++
 

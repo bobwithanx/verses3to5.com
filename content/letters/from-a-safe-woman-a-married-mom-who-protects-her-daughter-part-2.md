@@ -2,6 +2,7 @@
 title = "From a safe woman, a married mom who protects her daughter, Part 2"
 date = "2015-09-30T13:50:46+02:00"
 categories = ["Finances", "Marriage", "School", "Self-Care", "Self-Worth", "Sex"]
+aliases = ["/from-a-safe-woman-a-married-mom-who-protects-her-daughter-part-2/"]
 banner = "img/letters/AdobeStock_80559657.jpg"
 +++
 
