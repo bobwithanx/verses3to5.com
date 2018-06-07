@@ -2,7 +2,7 @@
 title = "From a woman who learned to love her body after it was mistreated and abused"
 date = "2016-10-03T13:50:46+02:00"
 categories = ["Abuse", "Childhood", "Empathy", "Healing"]
-
+aliases = ["/from-a-woman-who-learned-to-love-her-body-after-it-was-mistreated-and-abused/"]
 banner = "img/letters/AdobeStock_61713057.jpg"
 +++
 
