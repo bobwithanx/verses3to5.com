@@ -43,7 +43,7 @@
                       {{ if isset .Params "author" }} {{ i18n "authorBy" }}
                       <a href="#">{{ .Params.author }}</a>
                       {{ end }} {{- if .Params.category }} In {{ range $index, $category := .Params.category }} {{- if gt $index 0 -}}, {{- end }}
-                      <a href="{{ $.Site.BaseURL }}{{ " /category/ " | relURL }}{{ . | urlize | lower }}">{{- . -}}</a>
+                      <a href="{{ $.Site.BaseURL }}{{ "/category/" | relURL }}{{ . | urlize | lower }}">{{- . -}}</a>
                       {{- end -}} {{- end -}}
 
                     </p>
