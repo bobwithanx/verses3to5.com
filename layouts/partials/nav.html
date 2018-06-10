@@ -1,60 +1,62 @@
 <div class="nav-header">
-<div class="nav-container container">
-  <img class="pull-right" src="/img/verses3to5-logo.png">
-</div>
-<div class="navbar-affixed-top" data-spy="affix" data-offset-top="400">
-  <div class="navbar navbar-default yamm" role="navigation" id="navbar">
-
-    <div class="container">
-      <div class="navbar-header">
-        <a class="navbar-brand home" href="{{ .Site.BaseURL }}">
-          <img src="{{ .Site.BaseURL }}img/logo.png" alt="{{ .Title }} logo" class="hidden-xs hidden-sm">
-          <img src="{{ .Site.BaseURL }}img/logo-small.png" alt="{{ .Title }} logo" class="visible-xs visible-sm">
-          <span class="sr-only"> {{ .Site.Title }} - {{ i18n "navHome" }}</span>
-        </a>
-        <div class="navbar-buttons">
-          <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
-            <span class="sr-only">{{ i18n "navToggle" }}</span>
-            <i class="fa fa-align-justify"></i>
-          </button>
-        </div>
-      </div>
-      <!--/.navbar-header -->
-
-      <div class="navbar-collapse collapse" id="navigation">
-        <ul class="main-navigation-ul nav navbar-nav navbar-right">
-          {{ $currentPage := . }} {{ range .Site.Menus.main }}
-          <li class='nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}'>
-            <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Pre }}
-              <span>{{ .Name }}</span>
-            </a>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-      <!--/.nav-collapse -->
-
-      <div class="collapse clearfix" id="search">
-
-        <form class="navbar-form" role="search">
-          <div class="input-group">
-            <input type="text" class="form-control" placeholder="Search">
-            <span class="input-group-btn">
-
-              <button type="submit" class="btn btn-template-main">
-                <i class="fa fa-search"></i>
-              </button>
-
-            </span>
-          </div>
-        </form>
-
-      </div>
-      <!--/.nav-collapse -->
-
-    </div>
+  <div class="nav-container container hidden-xs hidden-sm">
+    <a href="{{ .Site.BaseURL }}">
+      <img class="logo-full pull-right" src="/img/verses3to5-logo.png">
+    </a>
   </div>
-  <!-- /#navbar -->
-
+  <div class="nav-container-sm container visible-xs visible-sm">
+    <a href="{{ .Site.BaseURL }}">
+      <img class="logo-sm pull-right" src="/img/verses3to5-logo-sm.png">
+    </a>
 </div>
-<!-- *** NAVBAR END ***-->
+<div class="navbar-affixed-top" data-spy="affix" data-offset-top="300">
+    <div class="navbar navbar-default yamm" role="navigation" id="navbar">
+
+      <div class="container">
+        <div class="navbar-header">
+          <div class="navbar-buttons pull-left">
+            <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+              <span class="sr-only">{{ i18n "navToggle" }}</span>
+              <i class="fa fa-bars"></i>
+            </button>
+          </div>
+        </div>
+        <!--/.navbar-header -->
+
+        <div class="navbar-collapse collapse" id="navigation">
+          <ul class="main-navigation-ul nav navbar-nav navbar-right">
+            {{ $currentPage := . }} {{ range .Site.Menus.main }}
+            <li class='nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}'>
+              <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Pre }}
+                <span>{{ .Name }}</span>
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        <!--/.nav-collapse -->
+
+        <div class="collapse clearfix" id="search">
+
+          <form class="navbar-form" role="search">
+            <div class="input-group">
+              <input type="text" class="form-control" placeholder="Search">
+              <span class="input-group-btn">
+
+                <button type="submit" class="btn btn-template-main">
+                  <i class="fa fa-search"></i>
+                </button>
+
+              </span>
+            </div>
+          </form>
+
+        </div>
+        <!--/.nav-collapse -->
+
+      </div>
+    </div>
+    <!-- /#navbar -->
+
+  </div>
+  <!-- *** NAVBAR END ***-->

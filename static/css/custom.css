@@ -5,6 +5,19 @@
   max-height: 190px;
 }
 
+#blog-listing-medium .post h2 a {
+  margin-top: 5px;
+  text-transform: uppercase !important;
+  line-height: 18px !important;
+  color: #9e1f63;
+}
+
+#blog-listing-medium .post h2 a:hover,
+a:hover {
+  color: #ee2a7b;
+  text-decoration: none;
+}
+
 .box-image-text .top .text {
   top: -10px;
 }
@@ -14,11 +27,12 @@ section {
 }
 
 a:hover {
-  color: #ee2a7b;
+  color: #9e1f63;
 }
 
 a {
-  color: #9e1f63;
+  color: #ee2a7b;
+  font-weight: 600;
 }
 
 a:active,
@@ -67,7 +81,7 @@ img.rounded {
 }
 
 strong {
-  color: #ee2a7b;
+  color: #9e1f63;
 }
 
 .btn-default {
@@ -75,24 +89,38 @@ strong {
   color: #fff;
 }
 
+.logo-full {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.logo-sm {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar-buttons {
+  margin-left: 15px;
+  color: white;
+}
 .nav-header {
   background: none;
   overflow:visible;
   width:100%;
-
+  line-height: 4px;
   background-image: url(/img/header-bg.jpg);
   background-position: center center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
 
-}
-.navbar-affixed-top {
-  background-position: center center;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-}
+  }
+  .navbar-affixed-top {
+    background-position: center center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+  }
 
 .affix {
   background-image: url(/img/header-bg.jpg);
@@ -102,58 +130,79 @@ strong {
   -moz-background-size: cover;
 }
 
-.nav-container {
-  padding-top: 20px;
-  padding-bottom: 20px;
+.nav-container-sm {
+  /* padding-top: 20px;
+  padding-bottom: 20px; */
+  height: 20px;
 }
 
+/* .nav-container-sm img {  background-color: #FDF9F3;
+} */
 .navbar-default {
-  /* background-image: url(/img/header-bg.jpg);
-  background-position: center center;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover; */
-  background-color: inherit;
+  background: inherit;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.navbar-default.affix {
   padding-top: 5px;
   padding-bottom: 5px;
 }
 
+.navbar-default .navbar-toggle{
+  border-color: #FDF9F4;
+  color: #FDF9F4;
+}
+.navbar-nav {
+  margin-top:0;
+  margin-bottom: 0;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border: none;
+}
 a.navbar-brand {
   /* color: #ffffff;
   font-family: Dawning of a New Day;
   font-size: 40px !important;
   color: #fef9f3 !important;
   font-weight: 400 !important; */
-  display: none;
+  /* display: none; */
 }
 
 .navbar ul.nav>li>a {
+  background-color: #FDF9F4;
   color: #111;
   text-decoration: none;
   border-top: none;
   font-size: 13px;
   font-weight: 600;
-  padding-right: 20px !important;
-  padding-left: 20px !important;
+  padding: 14px 20px !important;
+  line-height: 23px;
   text-transform: uppercase;
   letter-spacing: 0px;
 }
 
-.navbar-default .navbar-nav>.active>a,
-.navbar-default .navbar-nav>.active>a:hover,
-.navbar-default .navbar-nav>.active>a:focus,
-.navbar-default .navbar-nav>.active>a,
-.navbar-default .navbar-nav>a:hover,
-.navbar-default .navbar-nav>a:focus,
-.navbar ul.nav>li.active>a,
-.navbar ul.nav>li.open>a,
-.navbar ul.nav>li>a:hover,
-.navbar ul.nav>li>a:active,
-.navbar ul.nav>li.active>a:active {
-  background-color: #ee2a7b;
-  color: #ffffff;
-  border-top: none;
-}
+  .navbar-default .navbar-nav>.active>a,
+  .navbar-default .navbar-nav>.active>a:focus,
+  .navbar-default .navbar-nav>.active>a,
+  .navbar-default .navbar-nav>a:focus,
+  .navbar ul.nav>li.active>a,
+  .navbar ul.nav>li.open>a,
+  .navbar ul.nav>li>a:active,
+  .navbar ul.nav>li.active>a:active {
+    background-color: #ee2a7b;
+    color: #ffffff;
+    border-top: none;
+  }
+  .navbar-default .navbar-nav>.active>a:hover,
+  .navbar-default .navbar-nav>a:hover,
+  .navbar ul.nav>li>a:hover
+ {
+    background-color: #9e1f63;
+    color: #ffffff;
+    border-top: none;
+  }
 
 h4.block-header {
   text-align: center;
@@ -217,12 +266,13 @@ image .image-hover-overlay {
   background-color: #9e1f63;
   color: white;
   background-image: none;
+  padding: 0;
 }
 
 .bar.background-image-fixed-2 {
   background: url('/img/paper-bg.jpg') center center repeat;
   border-top: 35px solid #9e1f63;
-  padding: 35px;
+  padding: 35px 0;
 }
 
 h1.page-title {
@@ -230,16 +280,18 @@ h1.page-title {
   font-size: 20px !important;
   color: #fef9f3 !important;
   font-weight: 400 !important;
+  margin-bottom: 15px;
 }
 
 .page-title {
-  margin: 25px 20px 15px;
   line-height: 120%;
   -ms-word-wrap: break-word;
   word-wrap: break-word;
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 2px;
+  position: relative;
+  padding: 15px 0;
 }
 
 h1.script-title {
