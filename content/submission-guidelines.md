@@ -30,7 +30,7 @@ parent = "submission-guidelines"
 </div>
 
 </div>
-<h6 class="signature"><a href="https://verses3to5.wordpress.com/about-the-editor/">Jessica S. Marquis</a></h6>
+<h6 class="signature"><a href="/about-the-editor/">Jessica S. Marquis</a></h6>
 
 <p>Editor + Founder, <em>Verses 3 to 5</em></p>
 
